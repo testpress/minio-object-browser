@@ -163,32 +163,12 @@ const Login = () => {
               },
             }}
           >
-            <a href={docsURL} target="_blank" rel="noopener">
-              Documentation
-            </a>
-            <span className={"separator"}>|</span>
             <a
-              href="https://github.com/minio/minio"
-              target="_blank"
-              rel="noopener"
-            >
-              GitHub
-            </a>
-            <span className={"separator"}>|</span>
-            <a
-              href="https://subnet.min.io/?ref=con"
+              href="https://tpstreams.com/"
               target="_blank"
               rel="noopener"
             >
               Support
-            </a>
-            <span className={"separator"}>|</span>
-            <a
-              href="https://min.io/download/?ref=con"
-              target="_blank"
-              rel="noopener"
-            >
-              Download
             </a>
           </Box>
         }
@@ -197,13 +177,11 @@ const Login = () => {
         }
         promoInfo={
           <span style={{ fontSize: 14, lineHeight: 1 }}>
-            MinIO is a cloud-native object store built to run on any
-            infrastructure - public, private or edge clouds. Primary use cases
-            include data lakes, databases, AI/ML, SaaS applications and fast
-            backup & recovery. MinIO is dual licensed under GNU AGPL v3 and
-            commercial license. To learn more, visit{" "}
-            <a href={"https://min.io/?ref=con"} target="_blank" rel="noopener">
-              www.min.io
+            Tpstreams storage is a cloud-native object storage solution designed to run seamlessly across any infrastructure — public, private, or edge environments.
+            It supports key use cases including data lakes, databases, AI/ML workflows, SaaS applications, and high-performance backup & recovery.
+            The platform is licensed under the GNU AGPL v3 or a commercial license. To learn more, visit{" "}
+            <a href="https://tpstreams.com/" target="_blank" rel="noopener">
+              tpstreams.com
             </a>
             .
           </span>
