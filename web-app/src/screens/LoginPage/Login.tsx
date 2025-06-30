@@ -179,7 +179,7 @@ const Login = () => {
           <span style={{ fontSize: 14, lineHeight: 1 }}>
             Tpstreams storage is a cloud-native object storage solution designed to run seamlessly across any infrastructure — public, private, or edge environments.
             It supports key use cases including data lakes, databases, AI/ML workflows, SaaS applications, and high-performance backup & recovery.
-            The platform is licensed under the GNU AGPL v3 or a commercial license. To learn more, visit{" "}
+            The platform is licensed under the GNU AGPL v3. To learn more, visit{" "}
             <a href="https://tpstreams.com/" target="_blank" rel="noopener">
               tpstreams.com
             </a>
