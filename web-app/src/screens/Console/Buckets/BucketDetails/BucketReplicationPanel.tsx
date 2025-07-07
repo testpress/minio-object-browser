@@ -386,13 +386,13 @@ const BucketReplicationPanel = () => {
             iconComponent={<BucketsIcon />}
             help={
               <Fragment>
-                MinIO supports server-side and client-side replication of
+                TpStorage supports server-side and client-side replication of
                 objects between source and destination buckets.
                 <br />
                 <br />
                 You can learn more at our{" "}
                 <a
-                  href="https://min.io/docs/minio/linux/administration/bucket-replication.html?ref=con"
+                  href="#"
                   target="_blank"
                   rel="noopener"
                 >
